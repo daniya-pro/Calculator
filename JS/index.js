@@ -55,7 +55,7 @@ var x = document.getElementById("box").value
 }
 }
 
- function erase(){
+ function erase2(){
 if(b.value) b.value= b.value.slice(0, -1);
 
  }
