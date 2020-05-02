@@ -59,3 +59,9 @@ var x = document.getElementById("box").value
 if(b.value) b.value= b.value.slice(0, -1);
 
  }
+ function erase3(){
+
+if(b.value) b.value= b.value.slice(1);
+
+
+ }
